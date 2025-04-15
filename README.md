@@ -5,7 +5,7 @@ Warning: The script will **overwrite** original file and folder names!
 
 ## EXAMPLE
 
-Before:  
+Before:
 `C:\Projekt\Működés\Térkép\Játék élmény.docx`  
 After:
 `C:\Projekt\Mukodes\Terkep\Jatek elmeny.docx`
