@@ -1,7 +1,7 @@
 # POWERSHELL REMOVE ACCENTS
 
 A PowerShell script that recursively removes accented characters from file and folder names.
-⚠ **Warning:** The script will **overwrite** original file and folder names!
+Warning: The script will **overwrite** original file and folder names!
 
 ## EXAMPLE
 
